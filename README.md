@@ -66,4 +66,7 @@ I enjoy working with structured and unstructured datasets using tools like **Exc
 
 ---
 
-⭐ **“Data is the new oil, but insight is the spark that makes it valuable.”**  
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?logo=postgresql&logoColor=white)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?logo=powerbi&logoColor=black)
+
