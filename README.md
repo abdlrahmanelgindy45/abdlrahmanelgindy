@@ -62,6 +62,7 @@ I enjoy working with structured and unstructured datasets using tools like **Exc
 
 ## 📫 Contact Me
 📧 **Email:** abdlrahmanelgindy45@gmail.com 
+
 💼 **LinkedIn:** linkedin.com/in/abdlrahman-elgindy(#)  
 
 ---
